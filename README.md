@@ -1,3 +1,1 @@
-# whatsapp-bots-collection
-
-**[ZIP FILE DOWNLOAD LINK](https://github.com/TOXIC-KICHU/whatsapp-bots-collection/archive/refs/heads/master.zip)**
+# HELLO EVERYONE THIS IS A COLLECTION PAGE OF WHATSAPP BOT!
