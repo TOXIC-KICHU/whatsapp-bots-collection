@@ -11,3 +11,21 @@
 <a href="https://github.com/TOXIC-KICHU/whatsapp-bots-collection/network/members"><img title="FORKS" src="https://img.shields.io/github/forks/TOXIC-KICHU/whatsapp-bots-collection?color=white&style=flat-square"></a>
 <a href="https://github.com/TOXIC-KICHU/whatsapp-bots-collection/watchers"><img title="WATCHING" src="https://img.shields.io/github/watchers/TOXIC-KICHU/whatsapp-bots-collection?label=Watchers&color=white&style=flat-square"></a>
 </p>
+
+## LIST OF BOTS!!
+
+# LEON 
+### SIMPLE WHATSAPP BOT
+
+**About this repo**
+
+*This bot is created* **TOXIC DEVIL** 
+
+*Made with baley's*
+
+## DEVELOPER
+
+[![TOXIC-DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) |
+----|
+[TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)  | 
+Author: Developer, Base, Bug Fixes, Commits, Modules | 
