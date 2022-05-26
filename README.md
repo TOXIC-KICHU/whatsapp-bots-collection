@@ -35,20 +35,33 @@
 
 # Termux👇
 
-### Multi line 
-
+### Multi line: 
+```
 $ pkg install git -y
+```
+```
 $ pkg install nodejs -y
+```
+```
 $ git clone https://github.com/TOXIC-DEVIL/Leon
+```
+```
 $ cd Leon
+```
+```
 $ npm install @adiwajshing/baileys
+```
+```
 $ npm install chalk
+```
+```
 $ node index.js
+```
 
-### Single line
-
-
-
+### Single line:
+```
+$ pkg install git -y && pkg install nodejs -y && git clone https://github.com/TOXIC-DEVIL/Leon && cd Leon && npm install @adiwajshing/baileys && npm install chalk && node index.js
+```
 ## DEVELOPER
 
 [![TOXIC-DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) |
