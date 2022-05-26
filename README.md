@@ -21,7 +21,19 @@
 
 *This bot is created* **TOXIC DEVIL** 
 
-*Made with baley's*
+*Made with* **bailey's**
+
+### DEPLOY LEON IN HEROKU
+
+[![Run on Repl.it](https://repl.it/badge/github/TOXIC-DEVIL/WhatsApp-Bot)](https://replit.com/@TOXICDEVIL/Leon)
+
+[![Deploy-Leon](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXIC-DEVIL/Leon)
+
+## You have any doubt to deploy watch tutorial video👇
+
+**[Leon Installation Tutorial](https://youtu.be/eZ3xhIWnuyY)**
+
+# Termux👇
 
 ## DEVELOPER
 
