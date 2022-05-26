@@ -38,17 +38,11 @@
 ### Multi line 
 
 $ pkg install git -y
-
 $ pkg install nodejs -y
-
 $ git clone https://github.com/TOXIC-DEVIL/Leon
-
 $ cd Leon
-
 $ npm install @adiwajshing/baileys
-
 $ npm install chalk
-
 $ node index.js
 
 ### Single line
