@@ -15,7 +15,7 @@
 ## LIST OF BOTS!!
 
 # LEON 
-### SIMPLE WHATSAPP BOT
+### SIMPLE WHATSAPP BOT WITH MORE FEATURES
 
 **About this repo**
 
@@ -62,6 +62,27 @@ $ node index.js
 ```
 $ pkg install git -y && pkg install nodejs -y && git clone https://github.com/TOXIC-DEVIL/Leon && cd Leon && npm install @adiwajshing/baileys && npm install chalk && node index.js
 ```
+### YOU WANT SCRIPT OF THIS BOT
+
+<div align="center">
+  <p align="center">
+<img src=./src/zar.jpg sizealt="JPG" width="50" height="50"/>
+</p>
+
+**DOWNLOAD Z-ARCHIVER APP**
+
+**[LINK](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)**
+
+<div align="center">
+  <p align="center">
+<img src=./src/quickedit.jpg sizealt="JPG" width="50" height="50"/>
+</p>
+
+**DOWNLOAD QUICK-EDIT APP**
+
+**[LINK](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)**
+
+
 ## DEVELOPER
 
 [![TOXIC-DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) |
